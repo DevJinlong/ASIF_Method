@@ -1,4 +1,4 @@
-# The Core–Edge Paradigm
+# The Core–Edge Paradigm：
 
 ## A Habitat-Aware Framework for Deploying Deep Learning Species Recognition Across Heterogeneous Ecosystems
 
